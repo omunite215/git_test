@@ -1,0 +1,2 @@
+Hi! My name is Om Patel
+I am learning Web Dev through Odin Project and learning github and git.
